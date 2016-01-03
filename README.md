@@ -16,18 +16,18 @@ Subtract-a-Square is a game whereby you and your opponent take turns subtracting
 Tippy is like X's and O's, except the winner strives to form a "Tippy" with consecutive elements.
 
 XX <br />
- XX
+&nbsp; XX
 
 and 
 
 OO <br />
- OO
+&nbsp; OO
 
 Are Tippies. 
 
 Your computer opponent can be a random move selector, or an Artificial Intelligence (Minimax). 
 
-####The AI has 3 speed-optimized forms:####
+####The A.I has 3 speed-optimized forms:####
 
 1) Prune: Predictably unfruitful parts of the game state tree are "pruned" out of further computation.
 
